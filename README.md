@@ -1,3 +1,8 @@
-<div style="background-color: black; text-align: center; padding: 20px;">
-    <img src="curriculo.jpg" alt="Currículo" style="max-width: 100%; height: auto;">
-</div>
+# Meu Currículo
+Este é o meu currículo atualizado. Sinta-se à vontade para visualizar!
+
+**Redes Sociais:**  
+- [LinkedIn](https://www.linkedin.com/in/seuperfil)  
+- [GitHub](https://github.com/seuperfil)
+
+![Currículo](curriculo.jpg)
