@@ -1,3 +1,3 @@
 [Visualizar Currículo em PDF](curriculo.pdf)
-![](curriculo.jpg)
- 
+
+![Currículo](curriculo.jpg)
