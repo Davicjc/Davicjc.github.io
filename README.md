@@ -9,13 +9,12 @@
             margin: 0;
             padding: 0;
             height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            overflow: hidden; /* Evita rolagem */
         }
         img {
-            max-width: 100%;
-            max-height: 100%;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Preenche a área sem deformar a imagem */
         }
     </style>
 </head>
