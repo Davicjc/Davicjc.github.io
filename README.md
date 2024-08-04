@@ -9,12 +9,16 @@
             margin: 0;
             padding: 0;
             height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             overflow: hidden; /* Evita rolagem */
         }
         img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover; /* Preenche a área sem deformar a imagem */
+            max-width: 100%;
+            max-height: 100%;
+            width: auto;
+            height: auto; /* Ajusta a imagem mantendo a proporção */
         }
     </style>
 </head>
